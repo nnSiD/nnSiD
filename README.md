@@ -7,7 +7,7 @@
 
 ### 🏅 My Verified Open Source Badges
 
-[![Zephyr Technical Contributor](https://images.credly.com/images/1ddeec11-b778-4f9d-8815-6c31c05ca368/image.png)](https://www.credly.com/badges/1ddeec11-b778-4f9d-8815-6c31c05ca368/public_url)
+[![Zephyr Technical Contributor](https://images.credly.com/images/6df10e0e-4f7d-4a1e-84b2-04e76c7b94ad/image.png)](https://www.credly.com/badges/1ddeec11-b778-4f9d-8815-6c31c05ca368/public_url)
 
 **[Zephyr Project Technical Contributor]**
 <br>*Issued by The Linux Foundation*
